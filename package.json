@@ -1,0 +1,8 @@
+{
+  "name": "whatyearisit-app",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5"
+  }
+}
